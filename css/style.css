@@ -1,0 +1,31 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: hsb(271, 77, 91) !important;
+    font-weight: 400;
+}
+
+/* .navStyle{
+    position: fixed;
+    z-index: 4;
+    top:1px;
+    background-color: rgba(236, 236, 236, 0.721);
+    box-shadow: 2px 2px 20px rgb(100, 100, 100);
+}
+
+.navStyle1{
+    position: fixed;
+    z-index: 4;
+    top:1px;
+    background-color: rgba(236, 236, 236, 0.721);
+    box-shadow: 2px 2px 20px rgb(100, 100, 100);
+} */
+
+/* .height{
+    height: 100vh;
+} */
+
+.bgshadow {
+    /* background-color: red; */
+    box-shadow: 2px 2px 20px rgba(152, 152, 152, 0.485);
+    box-shadow: 2px 2px 20px rgba(171, 194, 253, 0.749);
+    border-radius: 5px;
+}
